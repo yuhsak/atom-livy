@@ -21,7 +21,7 @@ or type 'atom-livy' in GUI package manager.
 ### Settings
 
 - Endpoints
-	- Livy endpoints by url
+	- Livy endpoints by url (can be specified with multiple values separeted by commas)
 	- `Default` http://localhost:8998
 
 ### Commands
