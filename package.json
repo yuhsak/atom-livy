@@ -7,6 +7,7 @@
     "Spark",
     "Livy"
   ],
+  "author": "Yuhsak Inoue",
   "repository": "https://github.com/Yuhsak/atom-livy",
   "license": "MIT",
   "engines": {
