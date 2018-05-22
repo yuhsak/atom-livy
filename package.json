@@ -1,7 +1,7 @@
 {
   "name": "atom-livy",
   "main": "./lib/atom-livy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Atom package for working with Apache Livy Web API",
   "keywords": [
     "Spark",
