@@ -1,0 +1,19 @@
+{
+  "name": "atom-livy",
+  "main": "./lib/atom-livy",
+  "version": "0.0.1",
+  "description": "A package for interact with Apache Livy",
+  "keywords": [
+    "Spark",
+    "Livy"
+  ],
+  "repository": "https://github.com/Yuhsak/atom-livy",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.2.0",
+    "livy-client": "0.0.10"
+  }
+}

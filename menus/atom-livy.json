@@ -1,0 +1,47 @@
+{
+	"context-menu": {
+		"atom-text-editor": [
+			{
+				"label": "atom-livy",
+				"submenu": [
+					{
+						"label": "Select endpoint",
+						"command": "atom-livy:select-endpoint"
+					},
+					{
+						"label": "Select session",
+						"command": "atom-livy:select-session"
+					},
+					{
+						"label": "Execute statement",
+						"command": "atom-livy:execute-statement"
+					}
+				]
+			}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "atom-livy",
+					"submenu": [
+						{
+							"label": "Select endpoint",
+							"command": "atom-livy:select-endpoint"
+						},
+						{
+							"label": "Select session",
+							"command": "atom-livy:select-session"
+						},
+						{
+							"label": "Execute statement",
+							"command": "atom-livy:execute-statement"
+						}
+					]
+				}
+			]
+		}
+	]
+}
