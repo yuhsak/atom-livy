@@ -2,7 +2,7 @@
   "name": "atom-livy",
   "main": "./lib/atom-livy",
   "version": "0.0.1",
-  "description": "A package for interact with Apache Livy",
+  "description": "A package for working with Apache Livy Web API",
   "keywords": [
     "Spark",
     "Livy"
